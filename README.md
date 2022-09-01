@@ -18,6 +18,15 @@ You can either reproduce the raffles yourself on your local machine or have a lo
 go install github.com/divergencetech/ethier/ethier@v0.35.3
 ```
 
+```on a mac so you can run ethier from anywhere
+export PATH=$PATH:$(go env GOPATH)/bin
+which ethier && echo GOOD
+```
+
+```then confirm, if not GOOD then something went wrong
+which ethier && echo GOOD
+```
+
 ### Run the script
 
 ```bash

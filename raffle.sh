@@ -18,6 +18,4 @@ function draw() {
     cat "${list}" | ethier shuffle -e "${entropy}" -n "${numToDraw}"
 }
 
-draw grails/season-02/holder-snapshot-grail-17 1
-draw grails/season-02/holder-snapshot-grail-24 1
-draw grails/season-02/holder-snapshot-grail-25 1
+draw dbs/22-08-31/raffle-for-merch 4
