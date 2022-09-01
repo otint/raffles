@@ -1,6 +1,6 @@
-# Proof raffles
+# DBS raffles
 
-This public repository contains all necessary data to reproduce the raffles conducted by PROOF.
+This public repository is forked from the PROOF Raffles codebase and contains all necessary data to reproduce the raffles conducted by DBS.
 All raffles are hence verifiable by anyone.
 
 ## Structure
