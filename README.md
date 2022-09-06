@@ -10,7 +10,7 @@ The entropy is derived from an upcoming block that was announced in advance, ren
 
 ## Reproducing raffles
 
-You can reproduce the raffles yourself on your local machine.
+You can either reproduce the raffles yourself on your local machine or view the output of our [workflow](https://github.com/otint/raffles/actions/workflows/raffle.yml).
 
 ### Install dependencies
 
