@@ -10,7 +10,7 @@ The entropy is derived from an upcoming block that was announced in advance, ren
 
 ## Reproducing raffles
 
-You can either reproduce the raffles yourself on your local machine or have a look at the output of our [CI](https://github.com/proofxyz/raffles/actions/workflows/raffle.yml).
+You can reproduce the raffles yourself on your local machine.
 
 ### Install dependencies
 
