@@ -18,4 +18,4 @@ function draw() {
     cat "${list}" | ethier shuffle -e "${entropy}" -n "${numToDraw}"
 }
 
-draw dbs/23-01-05/raffle-for-proof-pass 1
+draw dbs/23-03-03/raffle-for-proof-pass 1
